@@ -1,6 +1,6 @@
 # Clusterizacao_de_clientes
 
-#Utilizando K-Means e MLLIB
+# Utilizando K-Means e MLLIB
 
 Programa desenvolvido no ambiente Databricks, utilizando o Apache Spark.
 
