@@ -4,7 +4,7 @@
 
 Programa desenvolvido no ambiente Databricks, utilizando o Apache Spark.
 
-Seu objetivo é encontrar algumas informações utilizando análises de dados, para gerarmos informações que possam originar em novas estratégias para que o Shopping mais clientes, que vão trazer maior renda ao estabelecimento.
+Seu objetivo é encontrar algumas informações utilizando análises de dados, para gerarmos informações que possam originar em novas estratégias para que o Shopping angarie mais clientes, que vão trazer maior renda ao estabelecimento.
 
 Realizamos uma análise de dados oriundos de um Shopping fictício, onde temos o acesso a informações como:
 Idade, gênero, ganhos anuais dos clientes e seu 'Score de compras', quanto mais próximo de 100, melhor
